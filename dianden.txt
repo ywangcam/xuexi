@@ -1,7 +1,7 @@
 main
-{   int D[4];
+{   int D[6];
     int k;
-    for (i=1,i<5,i++)
+    for (i=1,i<7,i++)
        {for (j=1,j<6,j++)
            if (j%2==0) k=D[i];}
 
